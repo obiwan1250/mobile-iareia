@@ -1,0 +1,28 @@
+
+<!DOCTYPE html
+  PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <meta name="author" content="Obiwan1250"><meta name="description" content="Mobile website for Iowa Landlord Association, Iowa Real Estate Investors Association, and Two Rivers REIA of Central Iowa."><meta name="keywords" content="Iowa Real Estate Investors, Iowa Landlord Association, Iowa Landlord Lunch and Learn, Two Rivers REIA, IaREIA, Renew ILA Membership"><title>Home - IaREIA | ILA | TRREIA Mobile</title><link rel="stylesheet" type="text/css" media="all" href="main.css"><link rel="stylesheet" type="text/css" media="all" href="colorschemes/colorscheme1/colorscheme.css"><link rel="stylesheet" type="text/css" media="all" href="style.css"><script type="text/javascript" src="live_tinc.js"></script></head><body id="main_body"><div id="container"><div id="header"><div id="logo"><a href="index.html"></a></div><div id="text_caption">IaREIA Mobile Website</div><div id="key_visual">&nbsp;</div></div><div id="main_nav_container"><ul id="main_nav_list"><li><a class="main_nav_active_item" href="index.html"><span class="main_nav_active_item_text">Home</span></a></li><li><a class="main_nav_item" href="pay-ila-l-l.html"><span class="main_nav_item_text">Pay ILA Lunch &amp; Learn</span></a></li></ul></div><div id="main_container"><div id="left_column_container"><div class="sub_nav_container"></div></div><div id="sub_container2"><div class="content" id="content_container"><p><b><font color="#0000ff"><a href="http://events.r20.constantcontact.com/register/event?oeidk=a07e7c5hib90c2c248b&amp;llr=sf7cg7iab" title="Spring Conference 2013" target="_blank"><b><font color="#0000ff"><span style="font-size:14px;">Register/Info for Spring Conference 2014</span></font></b></a></font></b></p><p><u><font color="#0000ff"><br></font></u></p><p><b><u>ILA | IaREIA</u></b></p><p><font color="#0000ff"><span style="font-size:14px;"><b><a href="http://iareia.com/pay-ila-l-l.html"><span style="font-size:14px;"><b><font color="#0000ff">Register for Lunch &amp; Learn</font></b></span></a></b></span></font></p><p><a href="http://iareia.com/mobile-ila-pay-dues-fees/" title="Paypal OR Credit Card via Paypal only ... "><font color="#0000ff"><b><span style="font-size:14px;">Renew Membership or Join ILA</span></b></font></a></p><p><b style="line-height:1.3;"><u><br></u></b></p><p><b style="line-height:1.3;"><u>TRREIA | IaREIA</u></b></p><p><span style="font-size:14px;"><a href="mailto:Info@iareia.com"><font color="#0000ff"><b><span style="font-size:14px;">Register for Two Rivers Meeting</span></b></font></a></span></p><p><a href="http://iareia.com/mobile-trreia-pay-dues-fees/" title="For busy RE investors, making it a snap!  "><b><font color="#0000ff"><span style="font-size:14px !important;">Renew&nbsp;</span><span style="font-size:14px !important;">Membership&nbsp;</span></font><span style="line-height:1.3;"><font color="#0000ff"><span style="font-size:14px;">or Join TRREIA</span></font>&nbsp;</span></b></a></p><p><br></p><p><span style="line-height:1.3;"><u>HOUSE</u> Switchboard - </span><span style="font-size:14px;line-height:18px;"><b><font color="#ff0000">515-281-3221</font></b></span></p><p><u>SENATE</u> Switchboard - <span style="font-size:14px;line-height:18px;"><b><font color="#ff0000">515-281-3371</font></b></span></p><p><br></p><p></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div></div></div><div id="footer"><div id="footer_text">Copyright (r) 2013 ILA | IaREIA | TRREIA</div></div></div><div id="extra_div1"><span></span></div><div id="extra_div2"><span></span></div><div id="extra_div3"><span></span></div><div id="extra_div4"><span></span></div><div id="extra_div5"><span></span></div><div id="extra_div6"><span></span></div><div id="extra_div7"><span></span></div><div id="extra_div8"><span></span></div><div id="extra_div9"><span></span></div><div id="extra_div10"><span></span></div><div id="extra_div11"><span></span></div><div id="extra_div12"><span></span></div><!-- wfxbuild / 1.0 / layout2-1 / 2013-04-29 15:44:24 CEST--></body></html>

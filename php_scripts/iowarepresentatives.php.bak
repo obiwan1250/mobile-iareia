@@ -1,0 +1,54 @@
+<html>
+<head>
+</head>
+<body>
+<?php
+
+$db_host = "iareiagodaddydb.db.9564926.hostedresource.com";
+$db_username = "iareiagodaddydb";
+$db_pass = "osh1Kosh2!";
+$db_name = "iareiagodaddydb";
+$table = "Representatives";
+
+$con = mysql_connect("$db_host","$db_username","$db_pass") or die ("Could not connect to MySQL");
+if (!mysql_select_db($db_name)) 
+    die ("Can't select database");
+
+// sending query
+$result = mysql_query("SELECT * FROM {$table}");
+if (!$result) {
+    die("Query to show fields from table failed");
+}
+
+$fields_num = mysql_num_fields($result);
+
+echo "<h1>House {$table}</h1>";
+echo "<h2>General Assembly: 85 (01/14/2013 - 01/11/2015)</h2>";
+echo "To search, press Ctrl-F then enter your search string";
+echo "<table border='1'><tr>";
+// printing table headers
+for($i=0; $i<$fields_num; $i++)
+{
+    $field = mysql_fetch_field($result);
+    echo "<td>{$field->name}</td>";
+}
+echo "</tr>\n";
+// printing table rows
+while($row = mysql_fetch_row($result))
+{
+    echo "<tr>";
+
+    // $row is array... foreach( .. ) puts every element
+    // of $row to $cell variable
+    foreach($row as $cell)
+        echo "<td>$cell</td>";
+
+    echo "</tr>\n";
+}
+mysql_free_result($result);
+
+
+
+?>
+</body>
+</html>

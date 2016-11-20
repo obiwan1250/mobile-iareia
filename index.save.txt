@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+  <title>IaREIA = Iowa Landlord Association + Two Rivers REIA | Mobile</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <!-- CSS Stylesheets -->
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.css" /><!-- Hosted on CDN -->
+  <link rel="stylesheet" href="css/ttc-3.css" /><!-- Hosted Locally - Use to Customize CSS -->
+  <!-- Links to jQuery Core (Hosted on MediaTemple CDN) -->
+  <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <script src="http://code.jquery.com/jquery-migrate-1.1.1.min.js"></script>
+  <!-- Link to jQuery Mobile (Hosted on MediaTemple CDN) -->
+  <script src="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
+  <!-- Link to FitVid.js file which makes YouTube video responsive (Hosted locally) -->
+  <script src="js/jquery.fitvids.js"></script>
+
+  <!-- Script required for FitVids.js -->
+  <script>
+  $(document).ready(function(){
+    // Target the div container that contains the video
+    $(".video").fitVids();
+  });
+  </script>
+
+ </head>
+
+ <body class="custom">
+ <div data-role="page" id="home">
+	
+	<!-- Header Content (Homepage) -->
+	<div data-role="header" class="border-bottom">
+		<h1 class="logoimg"><a href="index.html" rel="external"><img src="images/logo.png" alt=" IaREIA = Iowa Landlord Association + Two Rivers REIA" /></a></h1>
+	</div><!-- END data-role="header" -->
+
+	<!-- Main Content Area -->
+	<div data-role="content">
+
+		<!-- YouTube Video -->
+		<div class="video">
+		<iframe width="480" height="270" src="http://youtu.be/FEL2qc7AaGg?rel=0" frameborder="0" allowfullscreen></iframe>
+		</div><!-- END .video -->
+
+		<!-- Homepage Tagline Text -->
+		<div class="tagline"><br/>
+			<h3 style="color:#000">Welcome to the home pages of <br>IaREIA | ILA | TRREIA</h3>
+		</div><!-- END .tagline -->
+
+		<!-- Tap Buttons -->
+		<div class="centerthis button2">
+			<a href="http://iareia.com" rel="external" data-role="button" data-theme="b">ACCESS FULL WEBSITE</a>
+			<a href="tel:5157101955" data-role="button" data-theme="b">TAP TO CALL US</a>
+			<a href="http://events.r20.constantcontact.com/register/event?oeidk=a07e8mvjd1p18ef483e&llr=sf7cg7iab" rel="external" data-role="button" data-theme="a">JAN 2014 EXPO REGISTRATION</a>
+			<a href="mailto:Info.IaREIA@gmail.com" rel="external" data-role="button" data-theme="b">SEND US AN EMAIL</a>
+            <a href="http://m.iareia.com/pay-ila-l-l.html" rel="external" data-role="button" data-theme="a">PAY L&L NOW</a>
+            <a href="contact.php" rel="external" data-role="button" data-theme="b">CONTACT US</a>
+		</div><!-- .centerthis for Button #2 -->
+
+		<!-- Social Sharing Icons -->
+		<div class="socialicons">
+			<!-- Facebook Share -->
+			<a href="https://www.facebook.com/ILA.IaREIA" rel="external" data-ajax="false">
+			<img src="images/facebook.png" alt="Follow us on Facebook" /></a><!-- END Facebook -->
+			
+		</div><!-- END .socialicons -->
+	
+	</div><!-- END data-role="content" -->
+	
+	<!-- Footer Content (Homepage) -->
+	<div data-role="footer" class="border-top" id="home-footer">
+		<h4 style="font-size:10px">&copy; 2013  IaREIA = Iowa Landlord Association + Two Rivers REIA</h4>
+		<div data-role="navbar">
+		  <ul>
+				<li><a href="about.html" rel="external" data-iconpos="top" data-icon="info">ABOUT US</a></li>
+				<li><a href="services.html" rel="external" data-iconpos="top" data-icon="info">OUR SERVICES</a></li>
+			</ul>
+		</div><!-- END data-role="navbar" -->
+	</div><!-- END data-role="footer" -->
+
+ </div><!-- END data-role="page" (This concludes the Homepage content) -->
+  
+ </body>
+
+</html>
